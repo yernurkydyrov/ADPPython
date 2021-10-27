@@ -47,18 +47,18 @@ Endpoints
 
 ### Login examples
 Succesful log in example
-![Login](/assets/1.png)
+![Login](/Assignment3/assets/1.png)
 
 Wrong password/login example
-![WrongPass](/assets/WrongPass.png)
+![WrongPass](/Assignment3/assets/WrongPass.png)
 Response
-![PassResponse](/assets/wrongPassResponse.png)
+![PassResponse](/Assignment3/assets/wrongPassResponse.png)
 
 ### Protected examples
 Correct Token
-![Correct](/assets/correct.png)
+![Correct](/Assignment3/assets/correct.png)
 Wrong Token
-![WrongToken](/assets/wrongtoken.png)
+![WrongToken](/Assignment3/assets/wrongtoken.png)
 
 
 ## License
